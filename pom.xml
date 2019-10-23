@@ -27,7 +27,8 @@
         <module>entity</module>
         <module>dao</module>
         <module>service</module>
-        <module>web</module>
+        <!--<module>web</module>-->
+        <module>web02</module>
     </modules>
 
     <dependencies>
